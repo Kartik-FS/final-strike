@@ -1,5 +1,9 @@
 # Final Strike Launcher™
 
+<p align="center">
+  <img src="assets/logo.png" alt="Final Strike Logo" width="200"/>
+</p>
+
 ⚠️ This is the official Final Strike Launcher developed by Kartik since 2023.
 
 🚫 Any fork, copy, or launcher using the same name without written permission is unofficial and violates this project’s rights.
