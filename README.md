@@ -6,5 +6,7 @@
 
 🛡️ Final Strike is not open for ownership transfer. No one other than Kartik has the right to call themselves the creator or owner of this launcher.
 
+🔒 This project and its name (Final Strike Launcher™) are protected. Use of the name without permission is strictly prohibited.
+
 📅 Started: 2023 | Maintained: Present  
 👤 Creator: Kartik  
