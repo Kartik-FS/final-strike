@@ -1,0 +1,5 @@
+# _config.yml
+include:
+  - README.md
+  - LICENSE
+  - CONTRIBUTING.md
