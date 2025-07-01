@@ -3,7 +3,7 @@
 <p align="center">
   <img src="assets/logo.png" alt="Final Strike Logo" width="200"/>
 </p>
-> ⚠️ This logo and project are protected under copyright.  
+> ⚠️ This logo and project are protected under copyright.
 > Any unauthorized use or reupload will be reported.
 -------------------------------------------------------------
 
