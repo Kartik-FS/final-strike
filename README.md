@@ -5,6 +5,7 @@
 </p>
 > ⚠️ This logo and project are protected under copyright.
 > Any unauthorized use or reupload will be reported.
+
 -------------------------------------------------------------
 
 ⚠️ This is the official Final Strike Launcher developed by Kartik since 2023.
